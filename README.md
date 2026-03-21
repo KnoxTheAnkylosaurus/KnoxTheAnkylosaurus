@@ -29,7 +29,7 @@ Everything is, of course, free to download. But i don't take guarantee for my co
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZwajIwaDE2Z2plOTh4ZXFtYjBpOXV2Nng5bXZ0bDEyaXNrN3VmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XeBCBqm9RDvunYtNtO/giphy.gif" width="120"/>
 </div>
 <div align="center">
-  <b>...nothing!</b>
+  <b> A DND-App/Website!</b>
 </div>
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 
