@@ -55,7 +55,7 @@ Everything is, of course, free to download. But i don't take guarantee for my co
   		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Other_Tools&quot;}"><b>Other_Tools</b></td>
   	<tr>
   		<td height="21" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Python&quot;}">Python</td>
-  		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Atom&quot;}">Atom</td>
+  		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Atom&quot;}">Pulsar</td>
   		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Krita&quot;}">Krita</td>
   		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Davinci Resolve&quot;}">Davinci Resolve</td>
   		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;WordPress&quot;}">WordPress</td>
